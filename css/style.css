@@ -1,0 +1,22 @@
+body { 
+    color:cornflowerblue; 
+    font-family:arial;
+    margin: 0px;
+    line-height: 2.3;
+}
+div { 
+    min-height:height 100vh;
+    width:100vw;
+    background-color:wheat;
+    border: dashed 10px pink
+}
+.second-div {
+    background-color:powderblue
+}
+#second-li {
+    font-size:30px;
+}
+img {
+    width:200px;
+    border-radius:50px;
+}
